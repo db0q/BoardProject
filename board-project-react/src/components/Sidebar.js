@@ -12,8 +12,8 @@ const Sidebar = ({children}) => {
         },
     
         {
-            path:"/projects",
-            name:"Projects",
+            path:"/home",
+            name:"Home",
             icon:""
         },
         {
